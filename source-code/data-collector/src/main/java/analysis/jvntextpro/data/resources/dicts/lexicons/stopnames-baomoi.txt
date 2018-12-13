@@ -1,0 +1,1425 @@
+Việt_Nam	724990
+HLV	140917
+Việt	90691
+TP.HCM	89726
+TPHCM	61598
+Hồ_Chí_Minh	59351
+Đà_Nẵng	56038
+HCM	48781
+Sài_Gòn	42818
+Hải_Phòng	33332
+TNHH	28215
+Huế	28085
+Thăng_Long	28084
+Nghệ_An	27508
+Bình_Dương	27418
+Thanh_Hóa	26981
+NĐT	25715
+KTĐT	25550
+THPT	24927
+Tuấn	24886
+VND	24593
+Cần_Thơ	23087
+Đồng_Nai	22810
+CĐV	19847
+TP.	19835
+Hà_Tĩnh	19050
+Hải	18602
+Quảng_Nam	18263
+Quảng_Ninh	18240
+Quảng_Ngãi	17997
+VTC	17455
+Minh	16642
+GTVT	15668
+TAND	15495
+GD-ĐT	15368
+CSGT	15310
+Nam_Định	14194
+News	14110
+Khánh_Hòa	13964
+Sir	13370
+Tây_Nguyên	13354
+Quảng_Bình	13270
+Phú_Yên	12961
+Long_An	12826
+III	12689
+HCV	12592
+Gia_Lai	12479
+Hà_Đông	12146
+Bình_Định	12107
+Cà_Mau	12050
+BTC	11930
+Nha_Trang	11365
+Cầu_Giấy	11203
+Từ_Liêm	11119
+Lào_Cai	10958
+Đống_Đa	10867
+An_Giang	10811
+Đồng_Tháp	10775
+Quảng_Trị	10698
+Hòa	10393
+Thủy	10224
+Lâm_Đồng	10213
+Hoàn_Kiếm	10145
+Tiền_Giang	10044
+BKS	10018
+ANTĐ	9921
+Hai_Bà_Trưng	9878
+THCS	9804
+Đà_Lạt	9679
+Thái_Nguyên	9568
+Bắc_Ninh	9547
+Bắc_Giang	9500
+Bình_Thuận	9459
+Hạ_Long	9417
+Tp.HCM	9190
+Thủ_Đức	8954
+Hưng	8949
+Hội_đồng_Quản_trị	8874
+Phú_Thọ	8795
+VOV	8770
+USD/tấn	8767
+VnMedia	8724
+Ba_Đình	8659
+Tòa	8644
+Ninh_Bình	8633
+Reuters	8588
+GD&ĐT	8540
+Mỹ_Đình	8527
+KCN	8313
+DVT.vn	8125
+Long_Biên	8086
+ĐBSCL	8044
+Thúy	7977
+Cửu_Long	7945
+Huy	7924
+T.Ư	7915
+NLĐ	7716
+Kiên_Giang	7638
+Lạng_Sơn	7636
+Bắc_Bộ	7521
+Bạc_Liêu	7438
+Sơn_La	7291
+Dân_Việt	7279
+BLĐ	7217
+Ninh_Thuận	6967
+Vĩnh_Phúc	6881
+Hoàng_Mai	6763
+Sóc_Trăng	6763
+Hưng_Yên	6762
+Kon_Tum	6761
+Hà_Giang	6740
+Tân_Bình	6695
+DVD	6693
+Bến_Tre	6674
+Bình_Thạnh	6652
+TTO	6479
+Tây_Ninh	6476
+CATP	6439
+TT&VH	6237
+Bình_Phước	6237
+TS.	6212
+STB	6198
+HNM	6135
+BXH	6113
+Yên_Bái	6059
+Hà_Nam	5959
+Gia_Lâm	5941
+Vĩnh_Long	5861
+Bà_Rịa	5858
+TTXVN	5829
+CAND	5706
+Đông_Anh	5684
+Hội_đồng_quản_trị	5647
+MTTQ	5540
+XIII	5532
+Thừa_Thiên	5412
+TAGS	5383
+Lai_Châu	5379
+Quốc	5378
+Điện_Biên	5376
+Thanh_Trì	5374
+Nam_Bộ	5359
+HĐXX	5334
+BBC	5327
+KLS	5311
+Bình_Chánh	5281
+Tây_Hồ	5253
+UBCK	5225
+BVH	5223
+Phú_Nhuận	5223
+NHM	5118
+Trung_Bộ	5008
+LĐBĐ	4976
+Đắk_Lắk	4972
+ĐHCĐ	4966
+TMCP	4899
+QĐND	4854
+VietNamNet	4743
+SBJ	4730
+Trà_Vinh	4724
+Biên_Hòa	4722
+Hậu_Giang	4707
+Quy_Nhơn	4659
+Tân_Phú	4635
+TKV	4611
+SGGP	4604
+Hội_An	4591
+Ba_Vì	4544
+Loan	4541
+CôngThương	4525
+Thủ_Thiêm	4515
+PCCC	4503
+VCK	4487
+Sơn_Tây	4454
+LNST	4432
+Tuyên_Quang	4432
+Nguyễn_Trãi	4416
+VNĐ	4394
+Chinhphu.vn	4391
+ECB	4385
+Sóc_Sơn	4321
+Bình_Tân	4263
+Gò_Vấp	4262
+TTXH	4173
+TNGT	4119
+Nguyễn	4041
+TCTD	4025
+DNNN	4009
+NLĐO	3990
+Mê_Linh	3950
+Hùng_Vương	3949
+TBKTSG	3937
+TNO	3926
+Thừa_Thiên_Huế	3925
+GPMB	3914
+Zing	3877
+Cao_Bằng	3875
+Nội_Bài	3842
+Củ_Chi	3802
+Giám_đốc_điều_hành	3795
+Quang_Trung	3758
+GDCK	3746
+Phú_Quốc	3724
+VNM	3690
+MSN	3677
+ĐBQH	3656
+BĐBP	3649
+EUR	3625
+TPO	3619
+Sar	3594
+CQĐT	3559
+VKSND	3464
+DPM	3462
+Vietnam	3457
+Hóa	3441
+Bạch_Mai	3424
+ATGT	3412
+HCĐ	3378
+Q.1	3367
+PGS.TS	3367
+Mekong	3358
+PNJ	3318
+CTG	3311
+UPCoM	3306
+SCIC	3305
+ĐT.LA	3304
+NTC	3273
+TTHC	3272
+Tân_Sơn_Nhất	3269
+M&A	3265
+Buôn_Ma_Thuột	3245
+Tùy	3226
+TNCN	3225
+VFA	3220
+TTVN	3203
+Trần_Hưng_Đạo	3168
+SVĐ	3128
+City	3124
+SGTT.VN	3091
+Hồ_Gươm	3085
+XII	3083
+KSND	3071
+Long_Thành	3053
+Lý_Sơn	3050
+GD&TĐ	3045
+REE	3044
+World	2983
+Hoài_Đức	2982
+NDHMoney	2925
+PVI	2908
+CII	2907
+Hòa_Lạc	2900
+Phan_Thiết	2892
+ICTnews	2889
+Chương_Mỹ	2888
+I/2011	2884
+ĐTCK-online	2838
+Thường_Tín	2783
+Bắc_Kạn	2758
+Hà_Tây	2745
+Bình_Sơn	2733
+Quảng_Đông	2723
+PL&XH	2707
+Châu_Thành	2683
+QLTT	2682
+Ủy_ban_nhân_dân	2678
+B.Bình	2654
+P/E	2651
+Tamnhin.net	2641
+Móng_Cái	2624
+GiadinhNet	2621
+BongDa.com.vn	2599
+Á-Thái	2572
+Chí_Minh	2570
+Nam_bộ	2558
+Kim_Liên	2541
+Daily_Mail	2517
+SPDR	2512
+Standard	2502
+InfoTV	2489
+I/2010	2487
+Tuy_Hòa	2456
+TP.Hồ	2416
+Nguoiduatin.vn	2381
+TinTheThao.com.vn	2362
+Giảng_Võ	2349
+Bến_Thành	2342
+Tây_Sơn	2342
+Nhơn_Trạch	2336
+CNN	2331
+Bạch_Đằng	2312
+Lê_Văn_Lương	2307
+Cơ_quan_chức_năng	2287
+Hồ_Tây	2277
+Quốc_Oai	2257
+Phó_Tổng_giám_đốc	2248
+USD/năm	2234
+ATPvietnam.com	2226
+VnExpress.net	2218
+Luân	2212
+Laughing	2199
+Đồng_Xuân	2167
+Minh_Khai	2165
+Đắk_Nông	2159
+NĐTNN	2155
+Nhật_Tân	2153
+TP.Hà	2146
+Đồng_Hới	2131
+The_Sun	2120
+Tôn_Đức_Thắng	2107
+Ngô_Quyền	2104
+Nguyễn_Chí_Thanh	2082
+Liêm	2077
+Phú_Xuyên	2076
+Cần_Giờ	2074
+Nguyệt	2064
+Kim_Mã	2060
+Thạch_Thất	2048
+Lý_Thường_Kiệt	2046
+NPH	2040
+VH-	2039
+Đan_Phượng	2034
+Vĩ_Bắc	2033
+Láng_Hạ	2023
+GTGT	2021
+Hội_đồng_nhân_dân	2016
+Phó_Tổng_Giám_đốc	1997
+Poor	1987
+ANTT	1977
+Lê_Lợi	1974
+Nguyễn_Huệ	1950
+Đắc_Lắc	1933
+VII	1930
+Khóa	1919
+Khương	1915
+Tp.	1912
+Đất_Việt	1912
+Co.op	1910
+Thương_Tín	1909
+USD/tháng	1905
+Vĩnh_Tuy	1901
+CAP	1886
+Q.3	1880
+Diễm	1880
+Nguyễn_Văn_Linh	1877
+Thừa_Thiên-Huế	1874
+ĐKDT	1866
+Hương_Khê	1864
+Phạm_Văn_Đồng	1855
+GS.	1836
+VIII	1835
+Lý_Thái_Tổ	1830
+Open	1822
+TN&MT	1819
+Trung_Hòa	1818
+Phạm_Hùng	1814
+Lê_Hồng_Phong	1811
+Hoa_Lư	1808
+Hoàng_Văn_Thụ	1806
+Kỳ_Anh	1804
+Dĩ_An	1799
+Lê_Duẩn	1797
+Cẩm_Phả	1788
+NSNN	1775
+Cao_Lãnh	1774
+LĐO	1766
+An_Phú	1765
+Long_Giang	1761
+Quỳnh_Lưu	1755
+Thủ_Dầu_Một	1754
+Fitch	1747
+VSATTP	1739
+Hội_đồng_Nhân_dân	1738
+VOH	1737
+Clip	1734
+BQL	1727
+Long-Hà_Nội	1720
+PGS-TS	1714
+Việt_Trì	1702
+Gia_Định	1702
+Đinh_Tiên_Hoàng	1697
+LNTT	1680
+TN-MT	1673
+ABC	1670
+II/2010	1668
+New_York_Times	1666
+TCT	1661
+Bắc_bộ	1658
+SGTT	1652
+NCT	1644
+TNCS	1641
+Lê_Chân	1639
+League	1636
+VSD	1625
+CAH	1621
+Chi_Lăng	1620
+Tân_Hoa	1619
+Trưởng_Công_an	1619
+KĐT	1616
+Nguyễn_Trần_Nam	1615
+Ảnh_Getty	1614
+CBCNV	1601
+Group	1590
+PCLB	1590
+Nguyễn_Tất_Thành	1589
+Chương_Dương	1588
+UBTVQH	1581
+DotA	1580
+ITC	1569
+Bongda24h	1568
+XKLĐ	1557
+Mỹ_Tho	1551
+Ninh_Kiều	1547
+TDH	1543
+PPP	1540
+Hân	1529
+Saigon	1528
+Lưu_ký	1527
+Đăk_Lăk	1526
+Hoàng_Hoa_Thám	1524
+QK4	1522
+Trần_Nhân_Tông	1521
+DAX	1515
+Trung_bộ	1513
+Hiệp_Phước	1509
+Liên_Chiểu	1504
+Tân_Thành	1499
+Thanh_Oai	1495
+Diễn_Châu	1492
+Yên_Thành	1492
+Phunutoday	1486
+CPH	1476
+TGĐA	1470
+GĐĐH	1469
+Nguyễn_Văn_Cừ	1466
+N.SG	1466
+NTM	1456
+TCCN	1455
+Nẵng	1447
+Phúc_Thọ	1444
+Cát_Lái	1444
+Phó_Viện	1439
+Lệ_Thủy	1439
+Lam_Nghệ_An	1438
+Office	1437
+Lê_Quý_Đôn	1435
+CAC	1434
+GMD	1434
+VnEconomy	1432
+PNO	1424
+Trần_Duy_Hưng	1420
+AMG	1419
+Geneva	1418
+Telegraph	1412
+III/2010	1411
+Nguyễn_Thị_Minh_Khai	1408
+USS	1403
+Đuống	1401
+Tân_An	1400
+Nam_Đàn	1399
+Chợ_Lớn	1396
+KLGD	1395
+Kan	1395
+II/2011	1392
+Q.Bình_Thạnh	1389
+St.	1388
+GS.TS	1384
+TNXP	1380
+Thùy	1373
+Nguyễn_Thái_Học	1373
+Giáp_Bát	1373
+Nguyễn_Đình_Chiểu	1373
+Mê_Kông	1370
+Mễ_Trì	1369
+TĐC	1368
+SGGPO	1368
+UDD	1364
+Uyên	1362
+Mai_Dịch	1360
+PTNT	1353
+Quảng	1349
+Long_Xuyên	1347
+Hải_Châu	1343
+Full	1340
+Vĩnh	1338
+ĐHĐCĐ	1328
+Thủy_Nguyên	1326
+Ngọc_Khánh	1323
+Hoàng_Quốc_Việt	1321
+Người_Lao_Động	1315
+TT&DL	1314
+Bố_Trạch	1313
+CSCĐ	1313
+Bến_Cát	1313
+Dịch_Vọng	1312
+Xuân_Thủy	1307
+T+2	1302
+Rồng_Thăng_Long	1301
+TPP	1301
+Phạm_Ngọc_Thạch	1301
+Nhân_Chính	1299
+AMOLED	1291
+Thu_Thủy	1290
+TTTM	1286
+Nhuệ	1284
+Huân	1281
+Pháp_Vân	1277
+Time	1276
+MTXT	1276
+NDĐT	1272
+SHS	1271
+PVA	1270
+Ngọc_Hồi	1267
+Q.5	1263
+IV/2010	1257
+Hà_Tiên	1250
+Vũng_Áng	1245
+DNTN	1245
+NTL	1243
+BVSC	1243
+Tràng_Tiền	1240
+VIS	1239
+Khang	1237
+TTATGT	1232
+KT-XH	1229
+Lam_Sơn	1229
+An_Dương	1228
+KTX	1225
+Đông_Sơn	1225
+PCTN	1222
+Nghi_Lộc	1218
+Tháng_Tám	1217
+VSH	1216
+DIG	1215
+Tiệp	1213
+Entertainment	1213
+Phước_Long	1212
+ETF	1212
+GPLX	1211
+BS.	1211
+II/2009	1207
+Quảng_Trạch	1205
+USD/kg	1205
+Global	1204
+Anna	1199
+Bình_Triệu	1198
+Miền_Trung	1198
+Phú_Lộc	1196
+Bến_Lức	1196
+Email	1193
+Chu_Văn_An	1192
+UBS	1189
+Smith	1188
+Chinh	1188
+Charles	1187
+LĐ-TB-XH	1187
+Jones	1186
+BCĐ	1185
+JPA	1185
+Kim_Long	1184
+Phong_Điền	1181
+LPG	1180
+BĐKH	1180
+Lý_Công_Uẩn	1179
+WEF	1178
+CHLB	1177
+Tràng_An	1176
+Sài_Đồng	1174
+NNPTNT	1173
+Âu_Cơ	1172
+Tương_Dương	1169
+Núi_Thành	1169
+Ngô_Thì_Nhậm	1165
+Đông_Hà	1165
+Vũ_Thị_Hương	1164
+ĐH-CĐ	1164
+Hương_Trà	1163
+Cẩm_Xuyên	1163
+Q.7	1155
+TPCP	1154
+Lê_Trọng_Tấn	1151
+LCG	1148
+Ninh_Hòa	1148
+Q.Tân	1146
+Made	1145
+Tây_Nam_Bộ	1145
+Land	1145
+Nghi_Sơn	1143
+Trung_Lương	1142
+Toquoc	1140
+Cửa_Lò	1139
+Mạnh_Dũng	1135
+Bộ_luật_Hình_sự	1130
+Khoa_học_xã_hội	1130
+TNDN	1129
+Hòa_Vang	1128
+Vũ_Quang	1127
+Tuy_An	1126
+Nguyễn_Văn_Hùng	1124
+Ngũ_Hành_Sơn	1123
+Rịa-Vũng_Tàu	1122
+Kospi	1121
+Ứng_Hòa	1121
+VSP	1120
+Trương_Định	1117
+Đức_Thọ	1117
+Thụy_Khuê	1110
+Hải_Vân	1109
+Life	1103
+Q.2	1101
+Minh_Hóa	1097
+Lạc_Long_Quân	1096
+Tây_Ban	1093
+CT1	1091
+BĐVN	1091
+Hoan	1089
+Huỳnh_Thúc_Kháng	1088
+Phú_Hòa	1087
+CSHS	1084
+Văn_Khê	1083
+Vinaconex_Xuân_Mai	1083
+LHPN	1082
+Originally	1076
+Nguyễn_Mạnh_Hùng	1071
+Thanh_Chương	1070
+SSC	1070
+BLHS	1068
+FPTS	1067
+Q.10	1066
+MBH	1066
+Đông_Hòa	1066
+Cổ_Nhuế	1062
+Dream	1059
+HKTT	1055
+Thị_Vải	1053
+VnExpress	1051
+CVĐ	1051
+Yên_Hòa	1051
+Wall_Street_Journal	1050
+KKT	1049
+People	1047
+K.Khánh	1047
+GDKHQ	1044
+VLXD	1040
+Yên_Phụ	1040
+IV/2009	1039
+Lương_Sơn	1038
+Nhổn	1037
+Th.	1035
+UBKT	1034
+Vina	1034
+QNg	1032
+DBSK	1031
+Topcare	1026
+Thăng_Bình	1026
+LĐTBXH	1024
+Tân_Lập	1023
+Minh_Phú	1022
+Cầu_Diễn	1019
+Mua_Bán_Mua-Bán	1016
+Nguyễn_Văn_Khôi	1013
+Ngã_Tư_Sở	1013
+Điện_Bàn	1013
+Long-	1012
+Phó_Trưởng	1007
+Đại_Lộc	1007
+Bắc_Sơn	1006
+Khuất_Duy_Tiến	1006
+Đức_Hòa	1005
+Tân_Thuận	1004
+Tân_Hoa_Xã	1001
+III/2011	1001
+Nghị	1000
+Châu_Đốc	997
+Rangers	996
+HSSV	993
+Nguyễn_Tri_Phương	991
+MMO	990
+Hoàng_Diệu	987
+Tô_Lịch	986
+Thụy	985
+TNVN	985
+Phó_Tổng_thống	985
+Mr.	984
+LĐLĐVN	984
+Phù_Đổng	982
+Nguyễn_Văn_Minh	982
+Miền_Nam	981
+Cát_Bà	980
+Việt_Bắc	976
+NKT	975
+PDF	975
+Nguyễn_Văn_Tuấn	969
+TNMT	969
+Tổng_Cty	969
+Khâm_Thiên	967
+VHNT	962
+King	960
+Thị_Nghè	957
+Champions	955
+Bridge	955
+Trảng_Bom	950
+DNNVV	950
+Bảo_Lộc	949
+DHG	948
+Getty_Images	947
+Huấn	945
+Cát_Tiên	943
+Kỳ_Sơn	942
+TT-TT	941
+Image	937
+DHT	936
+Tây_Bắc_Bộ	932
+ĐSCT	930
+START	929
+Nguyễn_Văn_Dũng	928
+A_Lưới	928
+Q.8	927
+Lục_Nam	927
+ĐTĐ	927
+Phan	925
+PTI	924
+Nguyễn_Văn_Thành	924
+Sông_Hồng	923
+Can_Lộc	919
+VNS	918
+Đăk_Nông	918
+Mỹ_Phước	914
+Financial_Times	913
+USD/ngày	913
+Xuân_Lộc	913
+Giadinh.net	911
+Vĩnh_Yên	905
+Xuân_Đỉnh	904
+EFSF	904
+Phú_Vang	895
+Dầu_Giây	894
+Thanh_Hải	894
+Sông_Hậu	893
+Uông_Bí	891
+Đắc_Nông	885
+ƯCV	884
+KTNN	879
+NTP	877
+Pro	873
+Nông_Cống	872
+Love	872
+Vạn_Phúc	871
+TTĐT	868
+Straits_Times	868
+NDĐT-	868
+Sơn_Đông	867
+V12	867
+Hot	866
+LLVT	863
+III/2009	863
+MMORPG	863
+Lê_Đức_Thọ	858
+Cát_Linh	853
+Q.12	850
+BTV	849
+Đức_Phổ	846
+Rạch_Giá	845
+THVN	845
+You	844
+Từ_Sơn	844
+Đông_Triều	841
+Tĩnh_Gia	841
+ThienNhien.Net	841
+Phù_Mỹ	840
+Võ_Thị_Sáu	836
+Chiểu	835
+Lê_Đại_Hành	834
+Nguyễn_Thành_Biên	832
+T+4	829
+Cai_Lậy	829
+Lý_Tự_Trọng	826
+Thanh_Khê	825
+CNLĐ	825
+Hàm_Rồng	824
+ĐVO	823
+Phú_Ninh	823
+CHXHCN	821
+Phúc_Yên	819
+Trung_Mỹ	819
+Co.opMart	816
+Đặng_Xá	814
+Đô_Lương	814
+Tân_Hiệp	811
+Phương_Tây	809
+Lê_Thánh_Tôn	808
+Tân_Châu	807
+Trưng_Vương	807
+Kiến_Hưng	806
+Nguyễn_Lương_Bằng	805
+CNVC-LĐ	803
+PCT	803
+GS-TS	803
+Bãi_Cháy	800
+Cung_Văn_hóa	798
+Plus	797
+Đồng_Phú	796
+Điển_hình_như	794
+Thái_Thịnh	792
+Mường_Tè	792
+Vân_Đồn	792
+An_Nhơn	791
+Võ_Trí_Thành	791
+Cái_Răng	789
+Chí_Linh	789
+Tân_Thanh	789
+Nam_Trung_Bộ	787
+Sông_Hinh	787
+Music_Box	786
+Nguyễn_Văn_Trỗi	784
+GAP	784
+Bắc_Cạn	784
+Bến_Nghé	782
+Hướng_Hóa	781
+Tags	779
+Lĩnh_Nam	776
+Diệu	776
+Bà_Triệu	774
+Q.Thủ	768
+Nguyễn_Hữu_Cảnh	766
+Tây_Đô	764
+TBKT	764
+Mẫn	762
+NHTW	760
+Green	760
+Yên_Sở	760
+Bùi_Thị_Xuân	759
+I/2009	758
+TTX	758
+Ba_Tơ	758
+TP.Cần	757
+Tr.	757
+Rạch_Chiếc	757
+Đông_Hưng	757
+TĐCS	754
+Nhi_Trung_ương	752
+Hàng_Bài	751
+Tân_Hưng	751
+Doanh	748
+Tuy_Phước	747
+Hỏa	746
+Cẩm_Lệ	745
+Tam_Bình	745
+Bắc-Nam	744
+Xinhua	741
+Bình_Điền	741
+Trần_Quang_Khải	738
+TTK	738
+Phan_Chu_Trinh	737
+Đại_Mỗ	737
+Kim_Ngưu	735
+Vị_Xuyên	735
+Hồ_Tùng_Mậu	732
+Vĩnh_Lộc	731
+Cần_Giuộc	731
+Ba_Bể	731
+Wikipedia	731
+Phủ_Lý	729
+Chùa_Bộc	725
+Nguyễn_Quốc_Triệu	724
+Năm_Căn	723
+Long-Hà	722
+Tuyên_Hóa	721
+Quỳ_Hợp	721
+Phú_Tân	720
+Q.6	717
+ESPN	716
+Q.9	715
+CAD	715
+Tây_Nam_bộ	715
+Văn_Điển	714
+Thạch_Hà	714
+Goal.com	711
+Cao_Thắng	707
+Huỳnh	706
+Nguyễn_Khuyến	706
+Tân_Uyên	706
+Việt_nam	704
+Nguyễn_Công_Trứ	703
+Đội_Cấn	703
+Kim_Sơn	703
+Mỹ_Thuận	702
+Hà_Bắc	700
+TĐCS.ĐT	700
+Đồn_Biên_phòng	699
+Lương_Thế_Vinh	697
+Dân_chủ_Nhân_dân	697
+VIX	696
+Tây_nguyên	696
+Q.Bình	695
+Phú_Lâm	695
+Liễu_Giai	693
+Mê_Công	691
+Đại_Cồ_Việt	691
+Kiến_An	689
+ThS	688
+Đầm_Dơi	687
+Võ_Văn_Tần	686
+Quảng_Điền	686
+Phước_Sơn	686
+Ben	685
+TTTT	684
+Thuận_Thành	680
+Nghĩa_Tân	675
+Lục_Ngạn	673
+Bắc_Trà_My	673
+Sông_Cầu	673
+Hưng_Nguyên	672
+Đầm_Sen	666
+Kyodo	666
+Hiệp_Hòa	666
+Gò_Đậu	666
+Quảng_Xương	664
+Bát_Xát	663
+Đức_Giang	662
+CS.ĐT	659
+GĐTT	659
+Star	658
+Thịnh_Liệt	658
+TT-Huế	657
+Hoằng_Hóa	656
+U_Minh	655
+Nam_Kỳ_Khởi_Nghĩa	654
+Phùng_Hưng	652
+Cách_Mạng_Tháng_Tám	652
+DS-KHHGĐ	651
+UNDP	650
+Duy_Xuyên	650
+Tư_Nghĩa	650
+Nguyễn_Thái_Bình	650
+An_Hòa	649
+Vân_Phong	648
+Trần_Đại_Nghĩa	648
+Phạm_Ngũ_Lão	647
+Trần_Khát_Chân	647
+Bình_Châu	643
+Nghĩa_Đô	643
+Đại_La	643
+China_Daily	641
+ĐTNN	638
+Hàng_Đào	635
+Nhựt	635
+Thanh_Trung	634
+Đồng_Tháp_Mười	632
+Nhiêu_Lộc	630
+LĐTB&XH	629
+Đê_La_Thành	629
+An_Dương_Vương	629
+Ngô_Gia_Tự	628
+Đồng_Xoài	628
+TP.Đà	627
+Long_Khánh	627
+Nam_Sơn	626
+Word	625
+Đông_Đô	625
+Buôn_Đôn	625
+QSDĐ	625
+Tân_Hóa	624
+VNN	623
+Cửu	623
+Lực_lượng_vũ_trang	622
+Phú_Lương	622
+Xuân_Trường	622
+Nguyễn_Bỉnh_Khiêm	618
+Phước_Hòa	617
+Rịa-Vũng	613
+Duy_Tiên	613
+USD/người	613
+Quốc_hội_thảo_luận	612
+Miền_Đông	611
+Q.11	608
+Nam_Giang	607
+GĐ&XH	605
+Dầu_Tiếng	604
+Nam-Trung_Quốc	601
+Bình_Lợi	601
+Mộc_Bài	599
+La_Thành	595
+Tiên_Lãng	592
+Con_Cuông	592
+Vietnam+	592
+Long_Phú	589
+Ô_Chợ_Dừa	587
+An_Khê	585
+Nam_Trà_My	584
+XXI	583
+Hà_Huy_Tập	583
+Thanh_Đa	581
+Khánh_Hội	580
+Bảo_Long	579
+Lê_Thái_Tổ	575
+Q.4	561
+Q.Thủ	768
+Q.6	717
+Q.1
+Q.2
+Q.3
+Q.4
+Q.5
+Q.6
+Q.7
+Q.8
+Q.9
+Q.10
+Q.11
+Q.12
+Q.13
+Q.14
+Q.15
+P.1
+P.2
+P.3
+P.4
+P.5
+P.6
+P.7
+P.8
+P.9
+P.10
+P.11
+P.12
+P.13
+P.14
+P.15
+P.16
+P.17
+USD/m2/tháng	696
+Q.Bình	695
+PP.Hà	30
+Lao_Cai	31
+-Thủ
+-Vũng
+Long_Định
+Lãng
+TS-BS
+TS.BS
+Tào_Ngọc_Hải
+Crying
+I/2008
+Hiện_Bộ
+Nguyễn_Văn_Sơn
+Thâm_cung_bí 
+Giadinh.net.vn
+Phùng_Hữu_Phú
+Duke
+Nghĩa_Lộ
+Thanks
+The_Times
+Nguyễn_Sáng_Vang
+Khiêm
+Báo_Phú_Yên
+Lãng
+TP.Quy
+An_Hiệp
+-Số
+Anh!
+An_Cựu
+Duke
+N.Y
+N.T.C
+Nam-Cu
+GD-
+Update
+Download
+ANTQ
+ANCT-TTATXH
+Đặng_Văn_Ngữ
+Quote---
+Thượng_Đình
+ONE
+Đào_Tấn
+B.N
+P.H
+U50
+Đèo_Cả
+Cầu_Ông_Lãnh
+Đa_Kao
+Kh.
+P.24
+Trung_Trung_Bộ
+Đăk_Pơ
+CT/TW
+Rùi
+N.V.T
+Minh_Lương
+Link
+Thái_Hà
+XVII
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+I.
+II.
+III.
+IV.
+V.
+VI.
+VII.
+VIII.
+IX.
+X.
+XI.
+XII.
+XIII.
+XIV.
+XV.
+WTT
+Webtretho
+Nguyễn_Thị_N.
+Trung_Long
+PPD
+*Anh 27725
+*Bạn 15613
+*Chiều 38574
+*Các 32450
+*Cùng 21181
+*Một 40841
+*Ngày 32814
+*Những 1062
+*Theo 32449
+*Trong 24028
+*Tại 406
+*Ông 21379
+-Anh 31717
+-Báo 38510
+-Bạn 29178
+-Bộ 1377
+-CTCP 1697
+-Chiều 14489
+-Chỉ 25539
+-Chị 13862
+-Chủ_tịch 6702
+-Chứng 31157
+-Cuộc 29543
+-Các 14758
+-Có 34333
+-Công 19638
+-Công_ty 31185
+-Cơ 34334
+-Dù 42723
+-Dự 35429
+-Giá 4752
+-Giám_đốc 19395
+-Giải 36498
+-HN 42701
+-HNX 41103
+-HOSE 45175
+-HSX 45900
+-Hai 33713
+-Huế 35215
+-Hà 31173
+-Hôm 29846
+-Hội 35542
+-Khi 28530
+-Khoảng 251
+-Không 8744
+-Mặc 20453
+-Một 5667
+-Mỹ 41876
+-Nam 35053
+-Nguyễn 32723
+-Ngày 9766
+-Ngân 27519
+-Người 34337
+-Nhà 42654
+-Những 13383
+-Nu 47678
+-Năm 42722
+-Nếu 13989
+-PV 17156
+-Phiên 193
+-Phó 28549
+-SBJ 15614
+-Sau 9121
+-Sáng 30622
+-Sở 13310
+-TP 31718
+-TPHCM 34949
+-TS 42682
+-Thanh 40448
+-Theo 6044
+-Thành 27171
+-Thái 32122
+-Thông 6575
+-Thưa 38021
+-Thương 30569
+-Thể 39183
+-Thị 18325
+-Thời 46221
+-Thứ 34279
+-Tiền 28456
+-Trong 4770
+-Trung 8988
+-Truyền 34896
+-Trên 9020
+-Trước 6976
+-Trường 12202
+-Trưởng 3109
+-Trần 44709
+-Tây 24144
+-Tính 41299
+-Tôi 3411
+-Tại 23550
+-Tập 23973
+-Tối 34380
+-Tổng 6710
+-Từ 27156
+-UBND 16368
+-Việc 24150
+-Việt 28364
+-Văn 27170
+-Vậy 4944
+-Về 14598
+-Với 2176
+-Ông 7042
+-Đây 11416
+-Đó 13278
+-Đại 2847
+-Để 31933
+-Ảnh 9477
+>>HLV 32792
+>>Người 16290
+>>Những 40343
+>>Xem 36082
+>Yêu 46190
+Ms.
+Mr.
+Mrs.
+Miss.
+Dr.
+Sr.
+Sir.
+Prof.
+St.
+Ths.
+ThS.
+Th.s.
+Th.S.
+Ts.
+TS.
+TSKH.
+Pgs.
+PGs.
+PGS.
+Gs.
+GS.
+Vs.
+VS.
+Bs.
+BS.
+Ds.
+DS.
+Kts.
+KTS.
+Ks.
+KS.
+Ths.Bs.
+Ths-Bs.
+ThS.BS.
+ThS-BS.
+Ths.Kts.
+Ths-Kts.
+ThS.KTS.
+ThS.KTS.
+Pgs.Ts.
+Pgs-Ts.
+PGs.Ts.
+PGs-Ts.
+PGS.TS.
+PGS-TS.
+Gs.Ts.
+Gs-Ts.
+GS.TS.
+GS-TS.
+Ts.Bs.
+Ts-Bs.
+TS.BS.
+TS-BS.
+Bs.Ts.
+Bs-Ts.
+BS.TS.
+BS-TS.
+Kts.Ts.
+Kts-Ts.
+KTS.TS.
+KTS-TS.
+Ts.Kts.
+Ts-Kts.
+TS.KTS.
+TS-KTS.
+PGs.TSKH.
+PGs-TSKH.
+PGS.TSKH.
+PGS-TSKH.
+Gs.TSKH.
+Gs-TSKH.
+GS.TSKH.
+GS-TSKH.
+Pgs.Bs.
+Pgs-Bs.
+PGs.Bs.
+PGs-Bs.
+PGS.BS.
+PGS-BS.
+Bs.Pgs.
+Bs-Pgs.
+Bs.PGs.
+Bs-PGs.
+BS.PGS.
+BS-PGS.
+Pgs.Kts.
+Pgs-Kts.
+PGs.Kts.
+PGs-Kts.
+PGS.KTS.
+PGS-KTS.
+Kts.Pgs.
+Kts-Pgs.
+Kts.PGs.
+Kts-PGs.
+KTS.PGS.
+KTS-PGS.
+Gs.Vs.
+Gs-Vs.
+GS.VS.
+GS-VS.
+Gs.Bs.
+Gs-Bs.
+GS.BS.
+GS-BS.
+Bs.Gs.
+Bs-Gs.
+BS.GS.
+BS-GS.
+Gs.Kts.
+Gs-Kts.
+GS.KTS.
+GS-KTS.
+Kts.Gs.
+Kts-Gs.
+KTS.GS.
+KTS-GS.
+Ds.Bs.
+Ds-Bs.
+DS.BS.
+DS-BS.
+Bs.Ds.
+Bs-Ds.
+BS.DS.
+BS-DS.
+Ts.Ds.
+Ts-Ds.
+TS.DS.
+TS-DS.
+Ds.Ts.
+Ds-Ts.
+DS.TS.
+DS-TS.
+Pgs.Ds.
+Pgs-Ds.
+PGs.Ds.
+PGs-Ds.
+PGS.DS.
+PGS-DS.
+Gs.Ds.
+Gs-Ds.
+GS.DS.
+GS-DS.
+III-	40
+No.1	368
+TP.Vinh	342
+Tp.Hồ_Chí_Minh	353
+TP.Biên	313
+TP.Hải	305
+TP.Huế	277
+TP.Vũng	276
+TP.Cần_Thơ	211
+TP.Pleiku	189
+TP.Thanh	156
+TP.Nha	142
+TP.Buôn	128
+TP.Tam	118
+TP.Thái	117
+TP.Tuy	114
+TP.Bạc_Liêu	106
+Tp.Hà	106
+TP.Hạ	94
+TP.Cà	92
+TP.Quảng	78
+TP.Vĩnh	74
+TP.Tân	72
+TP.Kon	72
+TP.Mỹ	69
+TP.Tam_Kỳ	60
+Tp.Hà_Nội	59
+TP.Đông	59
+TP.Đồng	55
+TP.Phan	54
+TP.Đà_Nẵng	53
+TP.Tân_An	51
+TP.Rạch	49
+TP.HCM-	49
+TP.Nha_Trang	48
+TP.Phan_Thiết	46
+TP.Lào	41
+TP.Biên_Hòa	41
+TP.Long	40
+

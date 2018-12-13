@@ -1,0 +1,419 @@
+ông
+bà
+bác
+chú
+cô
+thím
+dì
+cậu
+cụ
+mợ
+ngài
+anh
+chị
+thằng
+cái
+vua
+
+tỉnh
+tp
+tp.
+thành phố
+quận
+q.
+huyện
+huyện đảo
+thị xã
+thị tứ
+phường
+p.
+xã
+thị trấn
+thôn
+xóm
+làng
+ấp
+
+hẻm
+ngách
+ngõ
+đường
+phố
+đại lộ
+
+bộ
+cục
+sở
+ban
+ngành
+
+### Tiếng Anh
+Ms
+Ms.
+Mr
+Mr.
+Mrs
+Mrs.
+Miss
+Miss.
+Dr
+Dr.
+Sr
+Sr.
+Sir
+Sir.
+Prof
+Prof.
+St
+St.
+
+### Thạc sỹ
+thạc sỹ
+thạc sĩ
+Ths
+Ths.
+ThS
+ThS.
+Th.s
+Th.s.
+Th.S
+Th.S.
+
+### Tiến sỹ
+tiến sỹ
+tiến sĩ
+Ts
+Ts.
+TS
+TS.
+
+### Tiến sỹ khoa học
+TSKH
+TSKH.
+
+### Phó giáo sư
+phó giáo sư
+Pgs
+Pgs.
+PGs
+PGs.
+PGS
+PGS.
+
+### Giáo sư
+giáo sư
+Gs
+Gs.
+GS
+GS.
+
+### Viện sỹ
+viện sỹ
+viện sĩ
+Vs
+Vs.
+VS
+VS.
+
+### Bác sỹ
+bác sỹ
+bác sĩ
+Bs
+Bs.
+BS
+BS.
+
+### Dược sỹ
+dược sỹ
+dược sĩ
+Ds
+Ds.
+DS
+DS.
+
+### Kiến trúc sư
+kiến trúc sư
+Kts
+Kts.
+KTS
+KTS.
+
+### Kỹ sư
+Kỹ sư
+Kĩ sư
+Ks
+Ks.
+KS
+KS.
+
+### Thạc sỹ - Bác sỹ
+Ths.Bs
+Ths.Bs.
+Ths-Bs
+Ths-Bs.
+ThS.BS
+ThS.BS.
+ThS-BS
+ThS-BS.
+
+### Thạc sỹ - Kiến trúc sư
+Ths.Kts
+Ths.Kts.
+Ths-Kts
+Ths-Kts.
+ThS.KTS
+ThS.KTS.
+
+### Phó giáo sư - Tiến sỹ
+Pgs.Ts
+Pgs.Ts.
+Pgs-Ts
+Pgs-Ts.
+PGs.Ts
+PGs.Ts.
+PGs-Ts
+PGs-Ts.
+PGS.TS
+PGS.TS.
+PGS-TS
+PGS-TS.
+
+### Giáo sư - Tiến sỹ
+Gs.Ts
+Gs.Ts.
+Gs-Ts
+Gs-Ts.
+GS.TS
+GS.TS.
+GS-TS
+GS-TS.
+
+### Tiến sỹ  - Bác sỹ
+Ts.Bs
+Ts.Bs.
+Ts-Bs
+Ts-Bs.
+TS.BS
+TS.BS.
+TS-BS
+TS-BS.
+Bs.Ts
+Bs.Ts.
+Bs-Ts
+Bs-Ts.
+BS.TS
+BS.TS.
+BS-TS
+BS-TS.
+
+### Kiến trúc sư - Tiến sỹ
+Kts.Ts
+Kts.Ts.
+Kts-Ts
+Kts-Ts.
+KTS.TS
+KTS.TS.
+KTS-TS
+KTS-TS.
+Ts.Kts
+Ts.Kts.
+Ts-Kts
+Ts-Kts.
+TS.KTS
+TS.KTS.
+TS-KTS
+TS-KTS.
+
+### Phó giáo sư - Tiến sỹ khoa học
+GSs.TSKH
+PGs.TSKH.
+PGs-TSKH
+PGs-TSKH.
+PGS.TSKH
+PGS.TSKH.
+PGS-TSKH
+PGS-TSKH.
+
+### Giáo sư - Tiến sỹ khoa học
+Gs.TSKH
+Gs.TSKH.
+Gs-TSKH
+Gs-TSKH.
+GS.TSKH
+GS.TSKH.
+GS-TSKH
+GS-TSKH.
+
+### Phó giáo sư - Bác sỹ
+Pgs.Bs
+Pgs.Bs.
+Pgs-Bs
+Pgs-Bs.
+PGs.Bs
+PGs.Bs.
+PGs-Bs
+PGs-Bs.
+PGS.BS
+PGS.BS.
+PGS-BS
+PGS-BS.
+Bs.Pgs
+Bs.Pgs.
+Bs-Pgs
+Bs-Pgs.
+Bs.PGs
+Bs.PGs.
+Bs-PGs
+Bs-PGs.
+BS.PGS
+BS.PGS.
+BS-PGS
+BS-PGS.
+
+### Phó giáo sư - Kiến trúc sư
+Pgs.Kts
+Pgs.Kts.
+Pgs-Kts
+Pgs-Kts.
+PGs.Kts
+PGs.Kts.
+PGs-Kts
+PGs-Kts.
+PGS.KTS
+PGS.KTS.
+PGS-KTS
+PGS-KTS.
+Kts.Pgs
+Kts.Pgs.
+Kts-Pgs
+Kts-Pgs.
+Kts.PGs
+Kts.PGs.
+Kts-PGs
+Kts-PGs.
+KTS.PGS
+KTS.PGS.
+KTS-PGS
+KTS-PGS.
+
+### Giáo sư - Viện sỹ
+Gs.Vs
+Gs.Vs.
+Gs-Vs
+Gs-Vs.
+GS.VS
+GS.VS.
+GS-VS
+GS-VS.
+
+### Giáo sư - Bác sỹ
+Gs.Bs
+Gs.Bs.
+Gs-Bs
+Gs-Bs.
+GS.BS
+GS.BS.
+GS-BS
+GS-BS.
+Bs.Gs
+Bs.Gs.
+Bs-Gs
+Bs-Gs.
+BS.GS
+BS.GS.
+BS-GS
+BS-GS.
+
+### Giáo sư - Kiến trúc sư
+Gs.Kts
+Gs.Kts.
+Gs-Kts
+Gs-Kts.
+GS.KTS
+GS.KTS.
+GS-KTS
+GS-KTS.
+Kts.Gs
+Kts.Gs.
+Kts-Gs
+Kts-Gs.
+KTS.GS
+KTS.GS.
+KTS-GS
+KTS-GS.
+
+### Dược sỹ - Bác sỹ
+Ds.Bs
+Ds.Bs.
+Ds-Bs
+Ds-Bs.
+DS.BS
+DS.BS.
+DS-BS
+DS-BS.
+Bs.Ds
+Bs.Ds.
+Bs-Ds
+Bs-Ds.
+BS.DS
+BS.DS.
+BS-DS
+BS-DS.
+
+### Dược sỹ - Tiến sỹ
+Ts.Ds
+Ts.Ds.
+Ts-Ds
+Ts-Ds.
+TS.DS
+TS.DS.
+TS-DS
+TS-DS.
+Ds.Ts
+Ds.Ts.
+Ds-Ts
+Ds-Ts.
+DS.TS
+DS.TS.
+DS-TS
+DS-TS.
+
+### Phó giáo sư - Dược sỹ
+Pgs.Ds
+Pgs.Ds.
+Pgs-Ds
+Pgs-Ds.
+PGs.Ds
+PGs.Ds.
+PGs-Ds
+PGs-Ds.
+PGS.DS
+PGS.DS.
+PGS-DS
+PGS-DS.
+
+### Giáo sư - Dược sỹ
+Gs.Ds
+Gs.Ds.
+Gs-Ds
+Gs-Ds.
+GS.DS
+GS.DS.
+GS-DS
+GS-DS.
+
+### Giám đốc
+giám đốc
+Gđ
+Gđ.
+GĐ
+GĐ.
+
+### Tổng Giám đốc
+tổng giám đốc
+Tgđ
+Tgđ.
+TGĐ
+TGĐ.
+
+

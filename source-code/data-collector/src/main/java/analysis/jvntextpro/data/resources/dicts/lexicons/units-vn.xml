@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<units>
+    
+    <unittype category="unit_currency">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_physics">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_computer">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_medicine">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_jewelry">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="...">
+        <unit></unit>
+    </unittype>
+
+</units>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Named entity attributes:
+    - type: named entity type (location, organization, person, product, etc.)
+
+    For each named entity type, we have some other attributes:
+    - nationality: vn, us, jp, etc.
+    - level: country, state/province, city, district, ward, other
+    - field: technology, education, medicine, business, arts, politics, entertainment, etc.
+    - country: vn, us, jp, etc.
+    - manufacturer: Apple, Vinamilk, Toyota, etc.
+    
+    Location: type, level
+    Organization: type, field, country
+    Person: type, nationality, field
+    Product: type, manufacturer, field, country
+
+Names: a named entity may have multiple names (a main name and some other name variants)
+-->
+
+<namedentities>
+    
+    <namedentity type="" nationality="" field="">
+        <name></name>
+        <name></name>
+        <name></name>
+    </namedentity>
+
+    <namedentity type="" nationality="" field="">
+        <name></name>
+        <name></name>
+        <name></name>
+    </namedentity>
+    
+    <!--
+    <namedentity type="" nationality="" field="">
+        <name></name>
+        <name></name>
+        <name></name>
+    </namedentity>
+    -->
+    
+</namedentities>

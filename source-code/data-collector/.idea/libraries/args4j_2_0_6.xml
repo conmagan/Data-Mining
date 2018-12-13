@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="args4j-2.0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/args4j-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jmdn-base.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/jmdn-base.jar!/doc" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

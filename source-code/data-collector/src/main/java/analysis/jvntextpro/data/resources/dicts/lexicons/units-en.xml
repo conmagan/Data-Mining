@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<units>
+    
+    <unittype category="unit_currency">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_physics">
+        <unit>mm</unit>
+        <unit>millimetre</unit>
+        <unit>millimetres</unit>
+        <unit>millimeter</unit>
+        <unit>millimeters</unit>
+        <unit>cm</unit>
+        <unit>centimetre</unit>
+        <unit>centimetres</unit>
+        <unit>centimeter</unit>
+        <unit>centimeters</unit>
+        <unit>m</unit>
+        <unit>metre</unit>
+        <unit>metres</unit>
+        <unit>meter</unit>
+        <unit>meters</unit>
+        <unit>km</unit>
+        <unit>kilometre</unit>
+        <unit>kilometres</unit>
+        <unit>kilometer</unit>
+        <unit>kilometers</unit>
+        <unit>inch</unit>
+        <unit>inches</unit>
+        <unit>mile</unit>
+        <unit>miles</unit>
+        <unit>yd</unit>
+        <unit>yard</unit>
+        <unit>yards</unit>
+        <unit>ft</unit>
+        <unit>foot</unit>
+        <unit>feet</unit>
+        <unit>fur</unit>
+        <unit>furlong</unit>
+        <unit>furlongs</unit>
+        
+        <unit>m2</unit>
+        <unit>square metre</unit>
+        <unit>square metres</unit>
+        <unit>square meter</unit>
+        <unit>square meters</unit>
+        <unit>acre</unit>
+        <unit>acres</unit>
+        <unit>ha</unit>
+        <unit>hectare</unit>
+        <unit>hectares</unit>
+        <unit>square mile</unit>
+        <unit>square miles</unit>
+        <unit>km2</unit>
+        <unit>square kilometre</unit>
+        <unit>square kilometres</unit>
+        <unit>square kilometer</unit>
+        <unit>square kilometers</unit>
+        <unit>square yard</unit>
+        <unit>square yards</unit>
+        
+        <unit>mg</unit>
+        <unit>milligram</unit>
+        <unit>milligrams</unit>
+        <unit>cg</unit>
+        <unit>centigram</unit>
+        <unit>centigrams</unit>
+        <unit>g</unit>
+        <unit>gam</unit>
+        <unit>gram</unit>
+        <unit>grams</unit>
+        <unit>pound</unit>
+        <unit>pounds</unit>
+        <unit>kg</unit>
+        <unit>kilo</unit>
+        <unit>kilogram</unit>
+        <unit>kilograms</unit>
+        <unit>ton</unit>
+        <unit>tons</unit>
+        <unit>tonne</unit>
+        <unit>tonnes</unit>
+        <unit>ounce</unit>
+        <unit>ounces</unit>
+        
+        <unit>ml</unit>
+        <unit>millilitre</unit>
+        <unit>millilitres</unit>
+        <unit>milliliter</unit>
+        <unit>milliliters</unit>
+        <unit>dl</unit>
+        <unit>decalitre</unit>
+        <unit>decalitres</unit>
+        <unit>decaliter</unit>
+        <unit>decaliters</unit>
+        <unit>l</unit>
+        <unit>litre</unit>
+        <unit>litres</unit>
+        <unit>liter</unit>
+        <unit>liters</unit>
+        <unit>pint</unit>
+        <unit>pints</unit>
+        <unit>gal</unit>
+        <unit>gallon</unit>
+        <unit>gallons</unit>
+        <unit>quart</unit>
+        <unit>quarts</unit>
+        
+        <unit>°</unit>
+        <unit>°C</unit>
+        <unit>°F</unit>
+        <unit>oC</unit>
+        <unit>oF</unit>
+        
+    </unittype>
+
+    <unittype category="unit_computer">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_medicine">
+        <unit></unit>
+    </unittype>
+
+    <unittype category="unit_jewelry">
+        <unit>cara</unit>
+        <unit>carat</unit>
+        <unit>kara</unit>
+        <unit>karat</unit>
+    </unittype>
+
+    <unittype category="...">
+        <unit></unit>
+    </unittype>
+
+</units>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<regularexpressions>
+    
+    <regextype category="date">
+        <regex id="date|dd/mm">(0?[1-9]|[12]\d|3[01])/(0?[1-9]|1[0-2])</regex>
+        <regex id="date|dd-mm">(0?[1-9]|[12]\d|3[01])(-|–)(0?[1-9]|1[0-2])</regex>
+        <regex id="date|dd.mm">(0?[1-9]|[12]\d|3[01])\.(0?[1-9]|1[0-2])</regex>
+        
+        <regex id="date|mm/yy">(0?[1-9]|1[0-2])/(\d\d)</regex>
+        <regex id="date|mm-yy">(0?[1-9]|1[0-2])(-|–)(\d\d)</regex>
+        <regex id="date|mm.yy">(0?[1-9]|1[0-2])\.(\d\d)</regex>
+        
+        <regex id="date|mm/yyyy">(0?[1-9]|1[0-2])/((19|20)\d\d)</regex>
+        <regex id="date|mm-yyyy">(0?[1-9]|1[0-2])(-|–)((19|20)\d\d)</regex>
+        <regex id="date|mm.yyyy">(0?[1-9]|1[0-2])\.((19|20)\d\d)</regex>
+
+        <regex id="date|dd/mm/yy">(0?[1-9]|[12]\d|3[01])/(0?[1-9]|1[0-2])/(\d\d)</regex>
+        <regex id="date|dd-mm-yy">(0?[1-9]|[12]\d|3[01])(-|–)(0?[1-9]|1[0-2])(-|-)(\d\d)</regex>
+        <regex id="date|dd.mm.yy">(0?[1-9]|[12]\d|3[01])\.(0?[1-9]|1[0-2])\.(\d\d)</regex>
+
+        <regex id="date|dd/mm/yyyy">(0?[1-9]|[12]\d|3[01])/(0?[1-9]|1[0-2])/((19|20)\d\d)</regex>
+        <regex id="date|dd-mm-yyyy">(0?[1-9]|[12]\d|3[01])(-|–)(0?[1-9]|1[0-2])(-|–)((19|20)\d\d)</regex>
+        <regex id="date|dd.mm.yyyy">(0?[1-9]|[12]\d|3[01])\.(0?[1-9]|1[0-2])\.((19|20)\d\d)</regex>
+
+        <regex id="date|mm/dd">(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|mm-dd">(0?[1-9]|1[0-2])(-|–)(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|mm.dd">(0?[1-9]|1[0-2])\.(0?[1-9]|[12]\d|3[01])</regex>
+        
+        <regex id="date|mm/dd/yy">(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/(\d\d)</regex>
+        <regex id="date|mm-dd-yy">(0?[1-9]|1[0-2])(-|–)(0?[1-9]|[12]\d|3[01])(-|–)(\d\d)</regex>
+        <regex id="date|mm.dd.yy">(0?[1-9]|1[0-2])\.(0?[1-9]|[12]\d|3[01])\.(\d\d)</regex>
+
+        <regex id="date|mm/dd/yyyy">(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])/((19|20)\d\d)</regex>
+        <regex id="date|mm-dd-yyyy">(0?[1-9]|1[0-2])(-|–)(0?[1-9]|[12]\d|3[01])(-|–)((19|20)\d\d)</regex>
+        <regex id="date|mm.dd.yyyy">(0?[1-9]|1[0-2])\.(0?[1-9]|[12]\d|3[01])\.((19|20)\d\d)</regex>
+
+        <regex id="date|yy/mm/dd">(\d\d)/(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|yy-mm-dd">(\d\d)(-|–)(0?[1-9]|1[0-2])(-|–)(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|yy.mm.dd">(\d\d)\.(0?[1-9]|1[0-2])\.(0?[1-9]|[12]\d|3[01])</regex>
+
+        <regex id="date|yyyy/mm/dd">((19|20)\d\d)/(0?[1-9]|1[0-2])/(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|yyyy-mm-dd">((19|20)\d\d)(-|–)(0?[1-9]|1[0-2])(-|–)(0?[1-9]|[12]\d|3[01])</regex>
+        <regex id="date|yyyy.mm.dd">((19|20)\d\d)\.(0?[1-9]|1[0-2])\.(0?[1-9]|[12]\d|3[01])</regex>
+
+        <regex id="date|yyyy/mm">((19|20)\d\d)/(0?[1-9]|1[0-2])</regex>
+        <regex id="date|yyyy-mm">((19|20)\d\d)(-|–)(0?[1-9]|1[0-2])</regex>
+        <regex id="date|yyyy.mm">((19|20)\d\d)\.(0?[1-9]|1[0-2])</regex>
+        
+        <regex id="date|yyyy">(19|20)\d\d</regex>
+
+        <regex id="date|ngaythangnam">(?i)(ngay\s?|ngày\s?)(0?[1-9]|[12]\d|3[01])(\s?thang\s?|\s?tháng\s?)(0?[1-9]|1[0-2])((\s?nam\s?|\s?năm\s?)((19|20)?\d\d))?</regex>
+
+        <regex id="date|more"></regex>
+    </regextype>
+    
+    <regextype category="time">
+        <regex id="time|12-hh:mm:ss">(0?\d|1[0-2])(:0?\d|:[1-5]\d){1,2}</regex>
+        <regex id="time|12-hh:mm:ssampm">(0?\d|1[0-2])(:0?\d|:[1-5]\d){0,2}(\s)?(?i)(am|pm)</regex>
+        <regex id="time|24-hh:mm:ss">(0?\d|1\d|2[0-3])(:0?\d|:[1-5]\d){1,2}</regex>
+        <regex id="time|hhmmsslong">(0?\d|1\d|2[0-3])(\s?(h|g|giờ)\s?)(0?\d|[1-5]\d)(\s?(p|ph|phút|'|’)\s?)(0?\d|[1-5]\d)(\s?(s|giây|"|’’|”))?(\s?0?\d|[1-9]\d)?</regex>
+        <regex id="time|hhmmlong">(0?\d|1\d|2[0-3])(\s?(h|g|giờ)\s?)((0?\d|[1-5]\d)(\s?(p|ph|phút|'|’)\s?)?)?</regex>
+        <regex id="time|mmsslong">(0?\d|[1-5]\d)(\s?(p|ph|phút|'|’)\s?)((0?\d|[1-5]\d)(\s?(s|giây|"|’’|”)\s?)?(\s?0?\d|[1-9]\d)?)?</regex>
+        
+        <regex id="time|more"></regex>
+    </regextype>
+    
+    <regextype category="number">
+        <regex id="number|simpleinteger">[+-]?\d+</regex>
+        <regex id="number|vninteger">[+-]?\d{1,3}(\.\d{3})*</regex>
+        <regex id="number|fninteger">[+-]?\d{1,3}(,\d{3})*</regex>
+        <regex id="number|vnsimplefloat">[+-]?\d+,\d+</regex>
+        <regex id="number|fnsimplefloat">[+-]?\d+\.\d+</regex>
+        <regex id="number|vnfloat">[+-]?\d{1,3}(\.\d{3})*,\d+</regex>
+        <regex id="number|fnfloat">[+-]?\d{1,3}(,\d{3})*\.\d+</regex>
+        <regex id="number|specialfloat">[+-]?[,\.]\d+</regex>
+        <regex id="number|fraction">([1-9]\d*)/(1\d+|[2-9]\d*)</regex>
+        
+        <regex id="number|more"></regex>
+    </regextype>
+    
+    <regextype category="percent">
+        <regex id="percent|number1">[+-]?(\d*[\.,])?\d+(\s)?(%|‰)</regex>
+        <regex id="percent|number2">[+-]?(\d*[\.,])?\d+-[+-]?(\d*[\.,])?\d+(\s)?(%|‰)</regex>
+        
+        <regex id="percent|more"></regex>
+    </regextype>
+    
+    <regextype category="degree">
+        <regex id="degree|number">[+-]?(\d*[\.,])?\d+(\s)?(?i)(°|°C|oC|°F|oF)</regex>
+        
+        <regex id="degree|more"></regex>
+    </regextype>
+    
+    <regextype category="currencyunit">
+        <regex id="currencyunit|vn">(?i)(đ|Đ|vn(d|đ|Đ)|(đ|Đ)ồng|ĐỒNG|vietnam(ese)? dong|việt nam (đ|Đ)ồng|(đ|Đ)ồng tiền(\sViệt(\sNam)?)?)</regex>
+        <regex id="currencyunit|us">(?i)(\$|dollar(s)?|us(d|đ|Đ)|US\$|u(\.)?s(\.)? dollar(s)?|((đ|Đ)ồng\s)?(đ|Đ)ô(-|–|\s)?la(\sMỹ|\sMĩ)?|(Mỹ|Mĩ) kim)</regex>
+        <regex id="currencyunit|uk">(?i)(£|(british\s)?pound|gbp|pence|((đ|Đ)ồng\s)?bảng(\sAnh)?)</regex>
+        <regex id="currencyunit|jp">(?i)(¥|円|万|jpy|yen|((đ|Đ)ồng\s)?yên(\snhật)?|japanese yen)</regex>
+        <regex id="currencyunit|cn">(?i)(人民币|((đ|Đ)ồng\s)?ndt|((đ|Đ)ồng\s)?nhân dân tệ|renminbi|chinese yuan)</regex>
+        <regex id="currencyunit|au">(?i)(((đ|Đ)ồng\s)?au(d|đ|Đ)|au\$|australian dollar(s)?|((đ|Đ)ồng\s)?(Đ|đ)ô(-|–|\s)?la Úc)</regex>
+        <regex id="currencyunit|eu">(?i)(€|euro|eur|((đ|Đ)ồng\s)?(ơ|Ơ)(-|–|\s)?rô)</regex>
+        
+        <regex id="currencyunit|more"></regex>
+    </regextype>
+    
+    <regextype category="currency">
+        <regex id="currency|vn1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(đ|Đ|vn(d|đ|Đ)|(đ|Đ)ồng|ĐỒNG|vietnam(ese)? dong|việt nam (đ|Đ)ồng)</regex>
+
+        <regex id="currency|us1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(?i)(\$|dollar(s)?|us(d|đ|Đ)|US\$|u(\.)?s(\.)? dollar(s)?|(đ|Đ)ô(-|–|\s)?la(\sMỹ|\sMĩ)?|(Mỹ|Mĩ) kim)</regex>
+        <regex id="currency|us2">(?i)(\$|us(d|đ|Đ)|US\$)\d+([,.]\d+)*</regex>
+        
+        <regex id="currency|uk1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(?i)(£|(british\s)?pound|gbp|bảng(\sAnh)?)</regex>
+        <regex id="currency|uk2">(?i)(£|pound)\d+([,.]\d+)*</regex>
+
+        <regex id="currency|jp1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(¥|円|万|jpy|yen|yên(\snhật)?|japanese yen)</regex>
+        <regex id="currency|jp2">(?i)(¥|円|万|jpy|yen)\d+([,.]\d+)*</regex>
+
+        <regex id="currency|cn1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(人民币|ndt|nhân dân tệ|renminbi|chinese yuan)</regex>
+
+        <regex id="currency|au1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(au(d|đ|Đ)|au\$(Đ|đ)ô(-|–|\s)?la Úc)</regex>
+        <regex id="currency|au2">(?i)(au(d|đ|Đ)|au\$)\d+([,.]\d+)*</regex>
+
+        <regex id="currency|eu1">\d+([,.]\d+)*(\s)?(?i)((tỉ|tỷ|triệu|trăm ngàn|ngàn|trăm nghìn|nghìn|trăm)\s)?(€|euro|eur|(ơ|Ơ)(-|–|\s)?rô)</regex>
+        <regex id="currency|eu2">(?i)(€|euro|eur)\d+([,.]\d+)*</regex>
+        
+        <regex id="currency|more"></regex>
+    </regextype>
+    
+    <regextype category="numberunit">
+        <regex id="numberunit|1">[+-]?\d+([,.]\d+)*(?i)([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZaàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]{1,10}(/[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZaàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]{1,10}){0,2})</regex>
+
+        <regex id="numberunit|more"></regex>
+    </regextype>
+    
+    <regextype category="email">
+        <regex id="email|1">[_A-Za-z0-9-]+(\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*(\.[A-Za-z]{2,})</regex>
+        
+        <regex id="email|more"></regex>
+        <regex id=""></regex>
+    </regextype>
+    
+    <regextype category="ipaddress">
+        <regex id="ipaddress|ip4">([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])\.([01]?\d\d?|2[0-4]\d|25[0-5])</regex>
+        
+        <regex id="ipaddress|more"></regex>
+        <regex id=""></regex>
+    </regextype>
+    
+    <regextype category="url">
+        <regex id="url|1">((([A-Za-z]{3,9}:(?:\/\/)?)(?:[-;:&amp;=\+\$,\w]+@)?[A-Za-z0-9.-]+|(?:www.|[-;:&amp;=\+\$,\w]+@)[A-Za-z0-9.-]+)((?:\/[\+~%\/.\w-_]*)?\??(?:[-\+=&amp;;%@.\w_]*)#?(?:[.\!\/\\w]*))?)</regex>
+
+        <regex id="url|more"></regex>
+        <regex id=""></regex>
+    </regextype>
+
+    <regextype category="firstnumber">
+        <regex id="firstnumber|1">(\-|‐|‒|–|—|―|○|\*|•|>*|[1-9][\.:,])?\s?('|`|‘|"|“){0,2}(\(|\[|\{|⟨|«)?\d.*</regex>
+
+        <regex id="firstnumber|more"></regex>
+    </regextype>
+    
+    <regextype category="firstcap">
+        <regex id="firstcap|1">(\-|‐|‒|–|—|―|○|\*|•|>*|[1-9][\.:,])?\s?('|`|‘|"|“){0,2}(\(|\[|\{|⟨|«)?[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ].*</regex>
+
+        <regex id="firstcap|more"></regex>
+    </regextype>
+
+    <regextype category="firstlower">
+        <regex id="firstlower|1">(\-|‐|‒|–|—|―|○|\*|•|>*|[1-9][\.:,])?\s?('|`|‘|"|“){0,2}(\(|\[|\{|⟨|«)?[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz].*</regex>
+
+        <regex id="firstlower|more"></regex>
+    </regextype>
+    
+    <regextype category="initcap">
+        <regex id="initcap|1">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+[,\.!;:\-–]?)((\-|–|\s)?[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]*[,\.!;:\-–]?)*</regex>
+
+        <regex id="initcap|more"></regex>
+    </regextype>
+
+    <regextype category="allcap">
+        <regex id="allcap|1">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+[,\.!;:\-–]?)((\-|–|\s)?[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+[,\.!;:\-–]?)*</regex>
+        
+        <regex id="allcap|more"></regex>
+    </regextype>
+
+    <regextype category="shortform">
+        <regex id="shortform|1">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+\.)+([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+(\.)?)*</regex>
+        <regex id="shortform|2">[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]*\.</regex>
+        
+        <regex id="shortform|more"></regex>
+    </regextype>
+    
+    <regextype category="alllower">
+        <regex id="alllower|1">([aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+[\.,!;:\-–]?)(\s+[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+[\.,!;:\-–]?)*</regex>
+        <regex id="alllower|2"></regex>
+        
+        <regex id="alllower|more"></regex>
+    </regextype>
+    
+    <regextype category="name">
+        <!-- Juancho (Juan Juan) Yrausquin -->
+        <regex id="name|1">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)(\s[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+){1,3}[\.\?,!;:]?</regex>
+        <regex id="name|2">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+)(\s[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+){1,3}[\.\?,!;:]?</regex>
+        
+        <!-- Juancho E. Yrausquin -->
+        <regex id="name|3">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)\s([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]\.?\s?){1,2}([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+){0,2}[\.\?,!;:]?</regex>
+        <regex id="name|4">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+)\s([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]\.?\s?){1,2}([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+){0,2}[\.\?,!;:]?</regex>
+        
+        <!-- E.B. Yrausquin -->
+        <regex id="name|5">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]\.?\s?){1,3}(\s?[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ][aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+){1,2}[\.\?,!;:]?</regex>
+        <regex id="name|6">([AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]\.?\s?){1,3}(\s?[AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬBCDĐÐEÈẺẼÉẸÊỀỂỄẾỆFGHIÌỈĨÍỊJKLMNOÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢPQRSTUÙỦŨÚỤƯỪỬỮỨỰVWXYỲỶỸÝỴZ]+){1,2}[\.\?,!;:]?</regex>
+        
+        <regex id="name|more"></regex>
+    </regextype>
+    
+    <regextype category="unitmoney">
+        <regex id="unitmoney|vn">(?i)((đ|vnd|vn(đ|Đ)|đồng|tỉ|tỷ|triệu|ngàn|nghìn|trăm)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|us">(?i)((\$|usd|u\.s\.d|dollar(\s)?|us\$|usđ|(đ|Đ)ô(-|–|\s)?la)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|jp">(?i)((¥|円|万|jpy|yen|yên)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|uk">(?i)((£|pound|gbp|pence|bảng)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|au">(?i)((au(d|đ|Đ)|au\$)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|cn">(?i)((人民币|renminbi|yuan|ndt|tệ)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+        <regex id="unitmoney|eu">(?i)((€|euro|eur|(ơ|Ơ)(-|–|\s)?rô)/[aàảãáạăằẳẵắặâầẩẫấậbcdđeèẻẽéẹêềểễếệfghiìỉĩíịjklmnoòỏõóọôồổỗốộơờởỡớợpqrstuùủũúụưừửữứựvwxyỳỷỹýỵz]+)</regex>
+
+        <regex id="unitmoney|more"></regex>
+    </regextype>
+
+    <regextype category="unitphysics">
+        <regex id="unitphysics|velocity1">(?i)(m/s|m/sec|m/giây|km/h|km/hour|km/giờ|mph|mile/hour|mile/h|in/s|in/sec)</regex>
+        <regex id="unitphysics|velocity2">(?i)(metres per second|feet per second|miles per hour|kilometre per hour|inch per second)</regex>
+        <regex id="unitphysics|electricity">(?i)(kwh|kv|kw|Ω|volt|hz|mhz)</regex>
+        <regex id="unitphysics|distancearea">(?i)(mm|millimetre(s)?|millimeter(s)?|milimét|cm|centimetre(s)?|centimeter(s)?|xentimét|centimét|mét|metre(s)?|meter(s)?|km|kilometre(s)?|kilometer(s)?|kilômét|m2|m3)</regex>
+        
+        <regex id="unitphysics|more"></regex>
+    </regextype>
+
+    <regextype category="unitcomputer">
+        <regex id="unitcomputer|1"></regex>
+
+        <regex id="unitcomputer|more"></regex>
+    </regextype>
+
+    <regextype category="specialcharschunk">
+        <regex id="specialcharschunk|1">[…\.,،、:;\?!'`‘’"“”\-‐‒–—―\(\)\[\]\{\}⟨⟩«»%‰°/⁄·&amp;@\*\\•○\^†‡¡¿#÷′″‴№¶〃§~_\|¦©®™ºª₳฿₵¢₡₢₠\$₫৳₯€ƒ₣₲₴₭ℳ₥₦₧₱₰£₹₨₪₸₮₩¥៛]+</regex>
+
+        <regex id="specialcharschunk|more"></regex>
+    </regextype>
+
+    <!--
+    <regextype category="">
+        <regex id=""></regex>
+        <regex id=""></regex>
+        <regex id=""></regex>
+        <regex id=""></regex>
+        <regex id=""></regex>
+        <regex id=""></regex>
+    </regextype>
+    -->
+    
+</regularexpressions>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<punctuations>
+    
+    <punctuation category="ellipsis">(…+|\.{2,})</punctuation>
+    <punctuation category="fullstop">(\.|\./\.)</punctuation>
+    <punctuation category="comma">(,|،|、)</punctuation>
+    <punctuation category="colon">:</punctuation>
+    <punctuation category="semicolon">;</punctuation>
+    <punctuation category="question">\?</punctuation>
+    <punctuation category="exclamation">!</punctuation>
+    <punctuation category="quotation">('|`|‘|’|"|“|”){1,2}</punctuation>
+    <punctuation category="left-quotation">('|`|‘|"|“){1,2}</punctuation>
+    <punctuation category="right-quotation">('|’|"|”){1,2}</punctuation>
+    <punctuation category="minus-hyphen-dash">(\-|‐|‒|–|—|―){1,3}</punctuation>
+    <punctuation category="bracket">(\(|\)|\[|\]|\{|\}|⟨|⟩|«|»)</punctuation>
+    <punctuation category="left-bracket">(\(|\[|\{|⟨|«)</punctuation>
+    <punctuation category="right-bracket">(\)|\]|\}|⟩|»)</punctuation>
+    <punctuation category="percent-permil">(%|‰)</punctuation>
+    <punctuation category="degree">°</punctuation>
+    <punctuation category="guillemet">(«|»)</punctuation>
+    <punctuation category="slash">(/|⁄)</punctuation>
+    <punctuation category="interpunct">·</punctuation>
+    <punctuation category="ampersand">&amp;</punctuation>
+    <punctuation category="at-sign">@</punctuation>
+    <punctuation category="asterisk">\*</punctuation>
+    <punctuation category="backslash">\\</punctuation>
+    <punctuation category="bullet">•</punctuation>
+    <punctuation category="caret">\^</punctuation>
+    <punctuation category="dagger">(†|‡)</punctuation>
+    <punctuation category="inverted-exclamation">¡</punctuation>
+    <punctuation category="inverted-question">¿</punctuation>
+    <punctuation category="hash-number">#</punctuation>
+    <punctuation category="obelus">÷</punctuation>
+    <punctuation category="prime">(′|″|‴)</punctuation>
+    <punctuation category="numero-sign">№</punctuation>
+    <punctuation category="pilcrow">¶</punctuation>
+    <punctuation category="ditto-mark">〃</punctuation>
+    <punctuation category="section-sign">§</punctuation>
+    <punctuation category="tilde">~</punctuation>
+    <punctuation category="underscore">_</punctuation>
+    <punctuation category="vertical-bar">(\||¦)</punctuation>
+    <punctuation category="copyright">©</punctuation>
+    <punctuation category="registered-trademark">®</punctuation>
+    <punctuation category="trademark">™</punctuation>
+    <punctuation category="ordinal-indicator">(º|ª)</punctuation>
+    <punctuation category="currency-symbol">(₳|฿|₵|¢|₡|₢|₠|\$|₫|৳|₯|€|ƒ|₣|₲|₴|₭|ℳ|₥|₦|₧|₱|₰|£|₹|₨|₪|₸|₮|₩|¥|៛)</punctuation>
+
+</punctuations>

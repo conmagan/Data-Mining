@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Named entity attributes:
+    - type: named entity type (location, organization, person, product, etc.)
+
+    For each named entity type, we have some other attributes:
+    - nationality: vn, us, jp, etc.
+    - level: country, state/province, city, district, ward, other
+    - field: technology, education, medicine, business, arts, politics, entertainment, etc.
+    - country: vn, us, jp, etc.
+    - manufacturer: Apple, Vinamilk, Toyota, etc.
+    
+    Location: type, level
+    Organization: type, field, country
+    Person: type, nationality, field
+    Product: type, manufacturer, field, country
+
+Names: a named entity may have multiple names (a main name and some other name variants)
+-->
+
+<namedentities>
+    
+    <namedentity type="location" level="country">
+        <name>Vietnam</name>
+        <name>Việt Nam</name>
+        <name>Cộng hòa Xã hội chủ nghĩa Việt Nam</name>
+        <name>Đại Việt</name>
+        <name>VN</name>
+    </namedentity>
+
+    <namedentity type="location" level="country">
+        <name>Japan</name>
+        <name>Nihon</name>
+        <name>Nippon</name>
+        <name>Nhật Bản</name>
+        <name>Phù Tang</name>
+        <name>Xứ sở mặt trời mọc</name>
+        <name>JP</name>
+    </namedentity>
+    
+    <namedentity type="location" level="city">
+        <name>Hanoi</name>
+        <name>Hà Nội</name>
+        <name>Thăng Long</name>
+        <name>Thủ đô Hà Nội</name>
+        <name>HN</name>
+    </namedentity>
+
+    <!--
+    <namedentity type="" level="">
+        <name></name>
+        <name></name>
+        <name></name>
+    </namedentity>
+    -->
+    
+</namedentities>

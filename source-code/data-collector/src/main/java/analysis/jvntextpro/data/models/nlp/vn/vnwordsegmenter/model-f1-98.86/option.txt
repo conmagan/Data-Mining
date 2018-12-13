@@ -1,0 +1,20 @@
+traindata_file=vlsp_corpus_28-03-2012_train.tagged
+testdata_file=vlsp_corpus_28-03-2012_test.tagged
+
+order=1
+
+num_iterations=250
+
+f_rare_threshold=1
+cp_rare_threshold=2
+
+sigma_square=10
+#sigma_square=100
+
+evaluate_during_training=1
+
+# chunk information for chunk-based evaluation
+chunk_evaluate_during_training=1
+chunktype=IOB2
+chunk=B:I:Word
+

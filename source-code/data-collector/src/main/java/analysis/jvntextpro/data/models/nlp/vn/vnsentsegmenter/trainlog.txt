@@ -1,0 +1,1316 @@
+OPTION VALUES:
+==============
+Model directory: models/nlp/vn/vnsentsegmenter
+Model file: model.txt
+Option file: option.txt
+Training log file: trainlog.txt (this one)
+Training data file: train.tagged
+Testing data file: test.tagged
+Number of training examples 3254
+Number of testing examples 650
+Number of class labels: 2
+Number of context predicates: 19512
+Number of features: 2031
+Rare threshold for context predicates: 2
+Rare threshold for features: 2
+Number of training iterations: 120
+Initial value of feature weights: 0.0
+Sigma square: 100.0
+Epsilon for convergence: 1.0E-4
+Number of corrections in L-BFGS: 7
+Evaluation during training: true
+Save the best model towards testing data: true
+
+Start to train ...
+
+Iteration: 1
+	Log-likelihood                 = -2255.500925541993
+	Norm (log-likelihood gradient) = 2333.302487891358
+	Norm (lambda)                  = 0.0
+	Iteration elapsed: 0.049 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	592	535	90.37	99.26	94.61
+		n	111	58	54	93.10	48.65	63.91
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				91.74	73.95	81.89
+		Avg.2	650	650	589	90.62	90.62	90.62
+	Current max accuracy: 90.61538461538461 (at iteration 1)
+	Iteration elapsed (including testing & evaluation): 0.067 seconds
+
+Iteration: 2
+	Log-likelihood                 = -971.6311505311545
+	Norm (log-likelihood gradient) = 626.6494788354387
+	Norm (lambda)                  = 1.0000000000000069
+	Iteration elapsed: 0.019 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	586	532	90.78	98.70	94.58
+		n	111	64	57	89.06	51.35	65.14
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				89.92	75.03	81.80
+		Avg.2	650	650	589	90.62	90.62	90.62
+	Current max accuracy: 90.61538461538461 (at iteration 1)
+	Iteration elapsed (including testing & evaluation): 0.023 seconds
+
+Iteration: 3
+	Log-likelihood                 = -763.8811229258764
+	Norm (log-likelihood gradient) = 411.25288804888714
+	Norm (lambda)                  = 1.343516642175675
+	Iteration elapsed: 0.014 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	569	529	92.97	98.14	95.49
+		n	111	81	71	87.65	63.96	73.96
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				90.31	81.05	85.43
+		Avg.2	650	650	600	92.31	92.31	92.31
+	Current max accuracy: 92.3076923076923 (at iteration 3)
+	Iteration elapsed (including testing & evaluation): 0.028 seconds
+
+Iteration: 4
+	Log-likelihood                 = -503.47064330336957
+	Norm (log-likelihood gradient) = 200.517043237648
+	Norm (lambda)                  = 2.1062947394100817
+	Iteration elapsed: 0.02 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	562	535	95.20	99.26	97.18
+		n	111	88	84	95.45	75.68	84.42
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				95.33	87.47	91.23
+		Avg.2	650	650	619	95.23	95.23	95.23
+	Current max accuracy: 95.23076923076923 (at iteration 4)
+	Iteration elapsed (including testing & evaluation): 0.022 seconds
+
+Iteration: 5
+	Log-likelihood                 = -340.693474306344
+	Norm (log-likelihood gradient) = 120.4862267269903
+	Norm (lambda)                  = 3.038013781474589
+	Iteration elapsed: 0.022 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	553	537	97.11	99.63	98.35
+		n	111	97	95	97.94	85.59	91.35
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				97.52	92.61	95.00
+		Avg.2	650	650	632	97.23	97.23	97.23
+	Current max accuracy: 97.23076923076923 (at iteration 5)
+	Iteration elapsed (including testing & evaluation): 0.025 seconds
+
+Iteration: 6
+	Log-likelihood                 = -198.32089841636588
+	Norm (log-likelihood gradient) = 63.87089149373464
+	Norm (lambda)                  = 4.461621478037938
+	Iteration elapsed: 0.019 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	544	537	98.71	99.63	99.17
+		n	111	106	104	98.11	93.69	95.85
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				98.41	96.66	97.53
+		Avg.2	650	650	641	98.62	98.62	98.62
+	Current max accuracy: 98.61538461538461 (at iteration 6)
+	Iteration elapsed (including testing & evaluation): 0.021 seconds
+
+Iteration: 7
+	Log-likelihood                 = -107.07719130142416
+	Norm (log-likelihood gradient) = 35.78836223221993
+	Norm (lambda)                  = 6.3465584748985115
+	Iteration elapsed: 0.017 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	542	539	99.45	100.00	99.72
+		n	111	108	108	100.00	97.30	98.63
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.72	98.65	99.18
+		Avg.2	650	650	647	99.54	99.54	99.54
+	Current max accuracy: 99.53846153846155 (at iteration 7)
+	Iteration elapsed (including testing & evaluation): 0.019 seconds
+
+Iteration: 8
+	Log-likelihood                 = -73.24319594686514
+	Norm (log-likelihood gradient) = 66.42985464951798
+	Norm (lambda)                  = 8.97533350913624
+	Iteration elapsed: 0.018 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	542	539	99.45	100.00	99.72
+		n	111	108	108	100.00	97.30	98.63
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.72	98.65	99.18
+		Avg.2	650	650	647	99.54	99.54	99.54
+	Current max accuracy: 99.53846153846155 (at iteration 7)
+	Iteration elapsed (including testing & evaluation): 0.02 seconds
+
+Iteration: 9
+	Log-likelihood                 = -40.33972580723158
+	Norm (log-likelihood gradient) = 15.833219928148013
+	Norm (lambda)                  = 10.538701888914849
+	Iteration elapsed: 0.018 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.02 seconds
+
+Iteration: 10
+	Log-likelihood                 = -32.69022538104352
+	Norm (log-likelihood gradient) = 8.092249474342406
+	Norm (lambda)                  = 11.636100946009414
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 11
+	Log-likelihood                 = -25.11091457140495
+	Norm (log-likelihood gradient) = 4.253881579197729
+	Norm (lambda)                  = 13.600886339329007
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 12
+	Log-likelihood                 = -20.076584720377568
+	Norm (log-likelihood gradient) = 3.394557922210337
+	Norm (lambda)                  = 15.633636415823352
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 13
+	Log-likelihood                 = -15.567100003678323
+	Norm (log-likelihood gradient) = 4.073269183038114
+	Norm (lambda)                  = 18.762452141454958
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 14
+	Log-likelihood                 = -13.256261880708353
+	Norm (log-likelihood gradient) = 2.607996332916534
+	Norm (lambda)                  = 21.958412354305015
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 15
+	Log-likelihood                 = -12.850323923769734
+	Norm (log-likelihood gradient) = 0.7041256359214826
+	Norm (lambda)                  = 21.801223711167058
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 16
+	Log-likelihood                 = -12.750467438235852
+	Norm (log-likelihood gradient) = 0.5844392914557045
+	Norm (lambda)                  = 22.08368968442516
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	540	539	99.81	100.00	99.91
+		n	111	110	110	100.00	99.10	99.55
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.91	99.55	99.73
+		Avg.2	650	650	649	99.85	99.85	99.85
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 17
+	Log-likelihood                 = -12.545092065028015
+	Norm (log-likelihood gradient) = 0.5372583501513662
+	Norm (lambda)                  = 22.731476789786033
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 18
+	Log-likelihood                 = -12.274742216307676
+	Norm (log-likelihood gradient) = 0.5101725224855167
+	Norm (lambda)                  = 23.034238105989
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 19
+	Log-likelihood                 = -11.931913182568245
+	Norm (log-likelihood gradient) = 0.6913356001601852
+	Norm (lambda)                  = 23.912086065677027
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 20
+	Log-likelihood                 = -11.764926617213307
+	Norm (log-likelihood gradient) = 0.9260675363363133
+	Norm (lambda)                  = 24.270126845215106
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 21
+	Log-likelihood                 = -11.636003678631235
+	Norm (log-likelihood gradient) = 0.2556148018198325
+	Norm (lambda)                  = 24.165364075930913
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 22
+	Log-likelihood                 = -11.57720131386301
+	Norm (log-likelihood gradient) = 0.23506693797581188
+	Norm (lambda)                  = 23.955303551110426
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 23
+	Log-likelihood                 = -11.459631943171477
+	Norm (log-likelihood gradient) = 0.3529368995186406
+	Norm (lambda)                  = 23.20578552520453
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.011 seconds
+
+Iteration: 24
+	Log-likelihood                 = -11.468793017632631
+	Norm (log-likelihood gradient) = 1.226416358882611
+	Norm (lambda)                  = 23.047093385679425
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 25
+	Log-likelihood                 = -11.412764119946441
+	Norm (log-likelihood gradient) = 0.663373362368149
+	Norm (lambda)                  = 23.113656479352777
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 26
+	Log-likelihood                 = -11.340888800928894
+	Norm (log-likelihood gradient) = 0.3829720010217137
+	Norm (lambda)                  = 22.71808029985947
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 27
+	Log-likelihood                 = -11.285944230404663
+	Norm (log-likelihood gradient) = 0.20052249182285256
+	Norm (lambda)                  = 22.904645974572556
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 28
+	Log-likelihood                 = -11.246020857503428
+	Norm (log-likelihood gradient) = 0.3284144455811754
+	Norm (lambda)                  = 23.109339814044844
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 29
+	Log-likelihood                 = -11.198781409836762
+	Norm (log-likelihood gradient) = 0.3357816630863937
+	Norm (lambda)                  = 23.382170625353453
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 30
+	Log-likelihood                 = -11.136094953716984
+	Norm (log-likelihood gradient) = 0.21407908761320618
+	Norm (lambda)                  = 23.805812586786978
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 31
+	Log-likelihood                 = -11.102157601461103
+	Norm (log-likelihood gradient) = 0.15081885905472256
+	Norm (lambda)                  = 24.047579669884236
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 32
+	Log-likelihood                 = -11.082985090182493
+	Norm (log-likelihood gradient) = 0.09633107595885251
+	Norm (lambda)                  = 23.993492639585764
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 33
+	Log-likelihood                 = -11.06456404092895
+	Norm (log-likelihood gradient) = 0.14266182444558723
+	Norm (lambda)                  = 23.995500749552722
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 34
+	Log-likelihood                 = -11.062001618912502
+	Norm (log-likelihood gradient) = 0.3192541688474365
+	Norm (lambda)                  = 24.083081304225974
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 35
+	Log-likelihood                 = -11.049048050629247
+	Norm (log-likelihood gradient) = 0.10996541128519202
+	Norm (lambda)                  = 24.09521296538516
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 36
+	Log-likelihood                 = -11.042402846078593
+	Norm (log-likelihood gradient) = 0.09029320161439258
+	Norm (lambda)                  = 24.154850162929943
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
+
+Iteration: 37
+	Log-likelihood                 = -11.032765364738893
+	Norm (log-likelihood gradient) = 0.10522812491875246
+	Norm (lambda)                  = 24.28490554556139
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 38
+	Log-likelihood                 = -11.01990379183845
+	Norm (log-likelihood gradient) = 0.12086312230431777
+	Norm (lambda)                  = 24.41454956376628
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 39
+	Log-likelihood                 = -11.023731545532348
+	Norm (log-likelihood gradient) = 0.2732012712624454
+	Norm (lambda)                  = 24.406445342496454
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 40
+	Log-likelihood                 = -11.014873629787614
+	Norm (log-likelihood gradient) = 0.09266501051335699
+	Norm (lambda)                  = 24.409401202691342
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 41
+	Log-likelihood                 = -11.011021080435388
+	Norm (log-likelihood gradient) = 0.049022382183454595
+	Norm (lambda)                  = 24.42149822110768
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 42
+	Log-likelihood                 = -11.008410866140803
+	Norm (log-likelihood gradient) = 0.04138107632135096
+	Norm (lambda)                  = 24.406706423106133
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 43
+	Log-likelihood                 = -11.00247497263084
+	Norm (log-likelihood gradient) = 0.04233062054049997
+	Norm (lambda)                  = 24.381048614587094
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 44
+	Log-likelihood                 = -11.01030298774776
+	Norm (log-likelihood gradient) = 0.3563200435808526
+	Norm (lambda)                  = 24.437185202229085
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 45
+	Log-likelihood                 = -11.001280421562916
+	Norm (log-likelihood gradient) = 0.0952408444656947
+	Norm (lambda)                  = 24.39523964009196
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 46
+	Log-likelihood                 = -10.998751372199415
+	Norm (log-likelihood gradient) = 0.05163307676238702
+	Norm (lambda)                  = 24.39828045510691
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 47
+	Log-likelihood                 = -10.997171568348802
+	Norm (log-likelihood gradient) = 0.03116133190610242
+	Norm (lambda)                  = 24.41718957556422
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 48
+	Log-likelihood                 = -10.995600373170163
+	Norm (log-likelihood gradient) = 0.02879656504211579
+	Norm (lambda)                  = 24.45355929176905
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.007 seconds
+
+Iteration: 49
+	Log-likelihood                 = -10.994368468943543
+	Norm (log-likelihood gradient) = 0.02400450014312585
+	Norm (lambda)                  = 24.492288161113667
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.007 seconds
+
+Iteration: 50
+	Log-likelihood                 = -10.994281635304024
+	Norm (log-likelihood gradient) = 0.0776727322030686
+	Norm (lambda)                  = 24.549830282191785
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 51
+	Log-likelihood                 = -10.993329966659724
+	Norm (log-likelihood gradient) = 0.012869337760492252
+	Norm (lambda)                  = 24.541267329256144
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 52
+	Log-likelihood                 = -10.993191754794967
+	Norm (log-likelihood gradient) = 0.010702823299004469
+	Norm (lambda)                  = 24.53471724533226
+	Iteration elapsed: 0.006 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.007 seconds
+
+Iteration: 53
+	Log-likelihood                 = -10.992954131454823
+	Norm (log-likelihood gradient) = 0.027276725081742004
+	Norm (lambda)                  = 24.538189549219176
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 54
+	Log-likelihood                 = -10.99277870399816
+	Norm (log-likelihood gradient) = 0.014645270341066148
+	Norm (lambda)                  = 24.53325680568963
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 55
+	Log-likelihood                 = -10.992602496167198
+	Norm (log-likelihood gradient) = 0.013242244266153943
+	Norm (lambda)                  = 24.543044082366013
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 56
+	Log-likelihood                 = -10.992170846324743
+	Norm (log-likelihood gradient) = 0.00974297433032892
+	Norm (lambda)                  = 24.543998589225605
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 57
+	Log-likelihood                 = -10.992060818048452
+	Norm (log-likelihood gradient) = 0.010265249055540687
+	Norm (lambda)                  = 24.556220304793623
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 58
+	Log-likelihood                 = -10.991981825911935
+	Norm (log-likelihood gradient) = 0.0062078516170180125
+	Norm (lambda)                  = 24.550810820362816
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 59
+	Log-likelihood                 = -10.991892162296093
+	Norm (log-likelihood gradient) = 0.010254400690452999
+	Norm (lambda)                  = 24.53919202854313
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 60
+	Log-likelihood                 = -10.991875531198986
+	Norm (log-likelihood gradient) = 0.012022551023726773
+	Norm (lambda)                  = 24.537559686842012
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 61
+	Log-likelihood                 = -10.991850601949917
+	Norm (log-likelihood gradient) = 0.004624792959664278
+	Norm (lambda)                  = 24.539336134411194
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 62
+	Log-likelihood                 = -10.991836884155276
+	Norm (log-likelihood gradient) = 0.00428749604401727
+	Norm (lambda)                  = 24.540444342423946
+	Iteration elapsed: 0.008 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 63
+	Log-likelihood                 = -10.991821813098756
+	Norm (log-likelihood gradient) = 0.004393142221402832
+	Norm (lambda)                  = 24.540478519877478
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 64
+	Log-likelihood                 = -10.991800310709955
+	Norm (log-likelihood gradient) = 0.006252291443416484
+	Norm (lambda)                  = 24.541065530020756
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 65
+	Log-likelihood                 = -10.991828703526519
+	Norm (log-likelihood gradient) = 0.018514241979206227
+	Norm (lambda)                  = 24.537621861033738
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.009 seconds
+
+Iteration: 66
+	Log-likelihood                 = -10.991785194350964
+	Norm (log-likelihood gradient) = 0.005693651912695986
+	Norm (lambda)                  = 24.539775368626117
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 67
+	Log-likelihood                 = -10.991773275431983
+	Norm (log-likelihood gradient) = 0.0030423970317590594
+	Norm (lambda)                  = 24.539774817698355
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.008 seconds
+
+Iteration: 68
+	Log-likelihood                 = -10.991765237244254
+	Norm (log-likelihood gradient) = 0.0019847726490843072
+	Norm (lambda)                  = 24.539819873781827
+	Iteration elapsed: 0.007 seconds
+
+	Per-class performance evaluation:
+
+		Class	Human	Model	Match	Pre.(%)	Rec.(%)	F1-score
+		-----	-----	-----	-----	-------	-------	--------
+		y	539	539	538	99.81	99.81	99.81
+		n	111	111	110	99.10	99.10	99.10
+
+		-----	-----	-----	-----	-------	-------	--------
+		Avg.1				99.46	99.46	99.46
+		Avg.2	650	650	648	99.69	99.69	99.69
+	Current max accuracy: 99.84615384615385 (at iteration 9)
+	Iteration elapsed (including testing & evaluation): 0.01 seconds
